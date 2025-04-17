@@ -10,28 +10,18 @@ Este repositório contém o desenvolvimento de um sistema seguindo as fases do *
 .
 ├── iniciacao/
 │   ├── iteracao_1/
-│   │   ├── requisitos_iniciais.md
-│   │   ├── objetivos_do_sistema.md
-│   │   └── brainstorm.md
+│   │   └── Documentação Inicial - Requisitos Iniciais.pdf
 │   └── iteracao_2/
-│       ├── casos_de_uso.md
-│       ├── requisitos_priorizados.md
-│       └── planejamento.md
+│       └── Requisitos de Sistema - Detalhados.pdf
 │
 └── elaboracao/
-    ├── banco_de_dados/
-    │   ├── modelo_erd.png
-    │   ├── script_criacao.sql
-    │   └── dicionario_de_dados.md
-    ├── arquitetura_sistema/
-    │   ├── camadas.png
-    │   ├── explicacao_arquitetura.md
-    │   └── tecnologias_utilizadas.md
-    └── outros_projetos/
-        ├── prototipo_interativo/
-        ├── fluxograma.md
-        └── testes_de_conceito.md
-
+    ├── Banco de Dados/
+    │   ├── ModeloER.png
+    │   ├── script.sql
+    │   └── ModeloER.mwb
+    └── Arquitetura Sistema/
+        ├── Diagrama de Classes - Arquitetura.png
+        └── explicacao_arquitetura.md        
 ```
 ---
 
