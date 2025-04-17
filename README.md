@@ -6,7 +6,7 @@ Este repositório contém o desenvolvimento de um sistema seguindo as fases do *
 
 ## 📁 Estrutura do Diretório
 
-```plaintext
+```bash
 .
 ├── iniciacao/
 │   ├── iteracao_1/
@@ -32,7 +32,7 @@ Este repositório contém o desenvolvimento de um sistema seguindo as fases do *
         ├── fluxograma.md
         └── testes_de_conceito.md
 
-```plaintext
+```
 ---
 
 ## 🚀 Fases do PU Contempladas
